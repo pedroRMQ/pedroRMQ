@@ -4,7 +4,7 @@
 Sou um estudante de ciência da computação interessado em aprender tudo sobre desenvolvimento de software, sempre fui apaixonado na área e agora estou tentando me desenvolver nessa área
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroRMQ&layout=donut)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroRMQ&theme=dark&layout=donut-vertical)](https://github.com/pedroRMQ/github-readme-stats)
 <div style="display: inline_block"><br>
   <img aling="center" heigh="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img aling="center" heigh="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
